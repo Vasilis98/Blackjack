@@ -10,8 +10,8 @@ This project is an interactive **Blackjack** game built with JavaScript, HTML, a
 - **Draw a Card**: After the message **"Do you want to draw a new card?"** appears, the user can click the **NEW CARD** button to draw an additional card.
 - **Sum Calculation**: Each time the user draws new cars, the current card total is displayed below.
 - **Final Outcome**:
-    -If the total of the cards is exactly **21** the message **"You have got Blackjack!"** appears.
-    -If the total exceeds **21** the message **"You are out of the game"** appears.
+    If the total of the cards is exactly **21** the message **"You have got Blackjack!"** appears.
+    If the total exceeds **21** the message **"You are out of the game"** appears.
 - **Game Reset**: By pressing the **RESET GAME** button, the user can reset the game and start a new round.
 
 ## Technologies
